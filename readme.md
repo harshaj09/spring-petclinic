@@ -4,7 +4,7 @@
 
 ## Understanding the Spring Petclinic application with a few diagrams
 ## Understanding the Spring Petclinic application with a few diagram 
-## http://34.121.43.2:8080/
+
 
 [See the presentation here](https://speakerdeck.com/michaelisvy/spring-petclinic-sample-application)
 
